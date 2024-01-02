@@ -48,3 +48,6 @@ print("Number of columns:",len(df.axes[1]))
 ![output](<Screenshot 2024-01-02 141741.png>)
 
 ## RESULT:
+Thus a python program is written to read the contents of a CSV file.
+
+
